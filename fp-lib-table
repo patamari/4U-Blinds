@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Blinds4U")(type "KiCad")(uri "$(KIPRJMOD)/Blinds4U.pretty")(options "")(descr ""))
+)
